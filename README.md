@@ -5,8 +5,9 @@
 
 > ✍️ - I developed some exercises and control of bank accounts in Csharp to practice.
 <br>
-> Diagram :
-  <img align="center" alt="Diagrama" height="80" width="50" src="./img/diagrama.jpg">
+<h2> Diagram : </h2>
+
+  <img align="center" alt="Diagrama" src="./img/diagrama.jpg">
 
 ## Download
 
