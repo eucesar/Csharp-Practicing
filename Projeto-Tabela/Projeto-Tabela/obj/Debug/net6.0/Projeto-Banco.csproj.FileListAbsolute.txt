@@ -1,0 +1,15 @@
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.csproj.AssemblyReference.cache
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.AssemblyInfoInputs.cache
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.AssemblyInfo.cs
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\bin\Debug\net6.0\Projeto-Banco.exe
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\bin\Debug\net6.0\Projeto-Banco.deps.json
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\bin\Debug\net6.0\Projeto-Banco.runtimeconfig.json
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\bin\Debug\net6.0\Projeto-Banco.dll
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\bin\Debug\net6.0\Projeto-Banco.pdb
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.dll
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\refint\Projeto-Banco.dll
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.pdb
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\Projeto-Banco.genruntimeconfig.cache
+D:\IMPORTANTE\C#\Projeto-Tabela\Projeto-Tabela\obj\Debug\net6.0\ref\Projeto-Banco.dll
